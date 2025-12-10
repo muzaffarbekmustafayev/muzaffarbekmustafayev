@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Muzaffarbek Mustafayev
 
-I am a **Software Engineer** and a 3rd-year student at **Samarkand State University**. I am passionate about both frontend and backend development, building scalable web and mobile applications with modern technologies.
+I am a **Software Engineer** and a  student at **Samarkand State University**. I am passionate about both frontend and backend development, building scalable web and mobile applications with modern technologies.
 
 ---
 
