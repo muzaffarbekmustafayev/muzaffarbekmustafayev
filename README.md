@@ -62,7 +62,5 @@ I am a **Software Engineer** and a  student at **Samarkand State University**. I
 * GitHub: [github.com/muzaffarbekmustafayev](https://github.com/muzaffarbekmustafayev)
 
 ---
+[Snake animation](https://github.com/dutofanim/dutofanim/blob/output/github-contribution-grid-snake.svg)
 
-Agar xohlasangiz, Muzaffar aka, men README’ni **skills uchun progress bars, GitHub badges, va interactive vizual elementlar** bilan yanada jonli ko‘rinishga keltirib bera olaman.
-
-Shuni qilaylikmi?
