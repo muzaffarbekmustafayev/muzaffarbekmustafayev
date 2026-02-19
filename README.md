@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Muzaffarbek Mustafayev
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxYWFtMjJpejI0eWg3aXJ6ajF6dGcyM2hzN2sxY2Y0a2Vwb2tzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="coding" width="420"/>
-</p>
+
 
 ## 🚀 What I Can Build With These Technologies
 
