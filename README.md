@@ -94,7 +94,7 @@ I am especially interested in combining mathematical thinking with practical sof
 - Educational and research-oriented software with real-world value
 
 ## Connect With Me
-
+<meta property="og:image" content="https://www.muzaffarbek.uz/assets/USER-COvFL1nE.jpg" />
 - LinkedIn: [muzaffarbek-mustafayev-121846278](https://www.linkedin.com/in/muzaffarbek-mustafayev-121846278)
 - Telegram: [@MuzaffarbeksPortfolio](https://t.me/MuzaffarbeksPortfolio)
 - YouTube: [@muzaffarbekmustafayev](https://www.youtube.com/@muzaffarbekmustafayev)
