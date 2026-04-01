@@ -2,7 +2,7 @@
 # 👋 Muzaffarbek Mustafayev
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Muzaffarbek%20Mustafayev&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Financial%20Systems%20Engineer&descAlignY=51&descSize=20" width="100%" alt="Muzaffarbek Mustafayev Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Muzaffarbek%20Mustafayev&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Financial%20Systems%20Engineer&descAlignY=51&descSize=20" width="100%" alt="Muzaffarbek Mustafayev Banner" />
 </p>
 
 <p align="center">
