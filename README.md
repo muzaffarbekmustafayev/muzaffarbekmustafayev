@@ -1,19 +1,13 @@
-<!--
-<meta property="og:title" content="Muzaffarbek Mustafayev" />
-<meta property="og:description" content="Full-Stack Software Engineer | AI & Financial Systems" />
-<meta property="og:image" content="https://www.muzaffarbek.uz/assets/USER-COvFL1nE.jpg" />
-<meta property="og:url" content="https://muzaffarbek.uz" />
--->
 
 # 👋 Muzaffarbek Mustafayev
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Muzaffarbek%20Mustafayev&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=51&descSize=20" width="100%" alt="Muzaffarbek Mustafayev Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Muzaffarbek%20Mustafayev&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Financial%20Systems%20Engineer&descAlignY=51&descSize=20" width="100%" alt="Muzaffarbek Mustafayev Banner" />
 </p>
 
 <p align="center">
   <a href="https://muzaffarbek.uz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=React+%26+Node.js+Expert;UI%2FUX+Visionary;Scalable+System+Architect;Full-Stack+Engineer" alt="Professional Roles Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=AI+%26+Financial+Systems;Full-Stack+Architect;React+%26+Node.js+Expert;System+Integrator" alt="Professional Roles Typing Animation" />
   </a>
 </p>
 
