@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=https://www.muzaffarbek.uz/assets/USER-COvFL1nE.jpg&mask=circle&m=circle&w=300" alt="Muzaffarbek Mustafayev Profile" width="300" style="box-shadow: 0 0 20px rgba(6, 182, 212, 0.5);">
+  <img src="https://images.weserv.nl/?url=https://www.muzaffarbek.uz/assets/USER-COvFL1nE.jpg&mask=circle&m=circle&w=300" alt="Muzaffar Mustafayev Profile" width="300" style="box-shadow: 0 0 20px rgba(6, 182, 212, 0.5);">
 </p>
 
 <p align="center">
