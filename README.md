@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://muzaffarbek.uz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Financial+Systems+Architect;Full-Stack+Web+%26+Mobile+Engineer;Real-Time+WebRTC+%26+Media+Streaming;Telegram+Bot+%26+Terminal+Automation;Master+of+Science+(State+Grantee)" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Financial+Systems+Architect;Full-Stack+Web+%26+Mobile+Engineer;Real-Time+WebRTC+%26+Media+Streaming;Telegram+Bot+%26+Terminal+Automation;Master+of+Science+(State+Grantee)" alt="Typing Animation" />
   </a>
 
   <p align="center">
@@ -52,9 +52,10 @@ I am **Muzaffarbek Mustafayev**, a **Senior Software Engineer** and **AI & Finan
 
 <div align="center">
 
-### 💻 Core Technologies at a Glance
+<p align="center"><b>💻 Core Technologies at a Glance</b></p>
+
 <a href="https://muzaffarbek.uz">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,tailwind,git,linux,figma&perline=8" alt="Core Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,tailwind,git,linux,figma,postman,nginx,vscode,replit&perline=10" alt="Core Technologies" />
 </a>
 
 </div>
@@ -79,7 +80,7 @@ I am **Muzaffarbek Mustafayev**, a **Senior Software Engineer** and **AI & Finan
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/muzaffarbekmustafayev/antigravity">Antigravity Remote Terminal</a></h3>
       <p><b>Secure Multi-Session Telegram Terminal & AI Bridge</b></p>
-      <p>A multi-session Telegram bot connecting chat directly to Google Antigravity (AGY) CLI agent. Features interactive session cards, <b>Gemini 3.8 Flash</b> model switching, speed effort modes (Low/High), 5-hour rolling limit tracking, and instant Git commit/save synchronization.</p>
+      <p>A multi-session Telegram bot connecting chat directly to Google Antigravity (AGY) CLI agent. Features interactive session cards, model switching, speed effort modes, 5-hour rolling limit tracking, and instant Git commit synchronization.</p>
       <p><code>Node.js</code> <code>Telegram Bot API</code> <code>AGY CLI</code> <code>Child Process</code> <code>REST Webhooks</code></p>
     </td>
     <td width="50%" valign="top">
@@ -91,16 +92,16 @@ I am **Muzaffarbek Mustafayev**, a **Senior Software Engineer** and **AI & Finan
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/muzaffarbekmustafayev/mobile-gis-application">Mobile GIS Application</a></h3>
+      <p><b>Geographic Information & Real-Time Tracking Ecosystem</b></p>
+      <p>Full-stack mobile and web GIS solution featuring interactive geospatial data visualization, real-time backend reports, and mobile spatial data collector.</p>
+      <p><code>React Native</code> <code>Node.js</code> <code>PostGIS/PostgreSQL</code> <code>Leaflet/Mapbox</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎙️ Denoise Voices</h3>
       <p><b>Acoustic AI Speech Enhancement System</b></p>
       <p>Intelligent audio processing service that isolates clean human voice frequencies and eliminates background acoustic noise for clear communication pipelines and ASR feeds.</p>
       <p><code>Python</code> <code>Audio Processing</code> <code>Machine Learning</code> <code>FastAPI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 WormGPT / AI Code Assistant</h3>
-      <p><b>Intelligent JavaScript & Full-Stack Synthesizer</b></p>
-      <p>AI-driven code assistant engine designed to accelerate JavaScript development, generate unit tests, perform static refactoring, and provide interactive execution feedback.</p>
-      <p><code>Node.js</code> <code>LLM API</code> <code>Code Execution Sandbox</code> <code>Tailwind</code></p>
     </td>
   </tr>
 </table>
@@ -126,13 +127,20 @@ Directly verified technical credentials from leading engineering organizations:
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=muzaffarbekmustafayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=muzaffarbekmustafayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzaffarbekmustafayev&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=muzaffarbekmustafayev&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- Top Languages Card -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarbekmustafayev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4&langs_count=8" width="90%" alt="Top Languages" />
+  </p>
 
   <!-- Contribution Activity Graph -->
   <p align="center">
