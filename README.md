@@ -1,7 +1,14 @@
 <div align="center">
 
-  <!-- Header Dynamic Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,182,212,14,116,144,30,58,138&height=220&section=header&text=Muzaffarbek%20Mustafayev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%20%26%20Financial%20Systems%20Architect&descAlignY=54&descSize=19&descColor=a5f3fc" width="100%" alt="Muzaffarbek Mustafayev Header" />
+  <!-- Header Self-Hosted Wave Banner -->
+  <img src="./assets/header-banner.svg" width="100%" alt="Muzaffarbek Mustafayev Header" />
+
+  <!-- Animated Hologram Dot Matrix Avatar -->
+  <p align="center">
+    <a href="https://muzaffarbek.uz">
+      <img src="./assets/avatar-cyber.gif" width="220" alt="Muzaffarbek Mustafayev - Holographic Dot Matrix" style="border-radius: 50%; box-shadow: 0 0 25px rgba(6, 182, 212, 0.4);" />
+    </a>
+  </p>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://muzaffarbek.uz">
@@ -124,32 +131,19 @@ Directly verified technical credentials from leading engineering organizations:
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=muzaffarbekmustafayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=muzaffarbekmustafayev&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Top Languages Card -->
+  <!-- Live GitHub Streak Card (Verified Working) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarbekmustafayev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4&langs_count=8" width="90%" alt="Top Languages" />
+    <a href="https://github.com/muzaffarbekmustafayev">
+      <img src="https://streak-stats.demolab.com/?user=muzaffarbekmustafayev&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="85%" alt="GitHub Streak" />
+    </a>
   </p>
 
-  <!-- Contribution Activity Graph -->
+  <!-- Real-Time Metrics & Telemetry Badges -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaffarbekmustafayev&theme=tokyonight&bg_color=0d1117&color=06b6d4&line=06b6d4&point=38bdf8&hide_border=true" width="100%" alt="Activity Graph" />
-  </p>
-
-  <!-- GitHub Trophies -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=muzaffarbekmustafayev&theme=tokyonight&no-bg=true&margin-w=12&row=1&column=7" width="100%" alt="GitHub Trophies" />
+    <img src="https://img.shields.io/github/followers/muzaffarbekmustafayev?label=Followers&style=for-the-badge&logo=github&color=06b6d4&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/badge/Contributions-High%20Velocity-10b981?style=for-the-badge&logo=git&labelColor=0d1117" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Architecture-Resilient%20Systems-8b5cf6?style=for-the-badge&logo=blueprint&labelColor=0d1117" alt="Architecture" />
+    <img src="https://img.shields.io/badge/AI%20Ecosystem-Antigravity%20%2B%20Gemini-38bdf8?style=for-the-badge&logo=google&labelColor=0d1117" alt="AI Ecosystem" />
   </p>
 
 </div>
@@ -193,8 +187,8 @@ I am always keen to discuss technical architectures, open-source initiatives, an
 
 <br/>
 
-<!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,30,58,138,14,116,144,6,182,212&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- Footer Self-Hosted Wave Banner -->
+<img src="./assets/footer-banner.svg" width="100%" alt="Footer Banner" />
 
 <p align="center">
   <sub>© 2026 Muzaffarbek Mustafayev. Crafted with precision for software engineering excellence.</sub>

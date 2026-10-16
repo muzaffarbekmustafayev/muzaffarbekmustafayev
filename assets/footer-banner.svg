@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="100%" height="130" style="background: transparent; border-radius: 12px; overflow: hidden;">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#082f49" />
+      <stop offset="60%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0a0e17" />
+    </linearGradient>
+
+    <linearGradient id="footWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="130" fill="url(#footBg)" />
+  <path d="M 0 30 Q 350 90, 700 30 T 1200 50 L 1200 0 L 0 0 Z" fill="url(#footWave)" />
+  
+  <text x="600" y="90" text-anchor="middle" fill="#94a3b8" font-family="'Space Grotesk', sans-serif" font-size="14px">
+    Crafted with precision &amp; architectural resilience • Tashkent, Uzbekistan
+  </text>
+</svg>
