@@ -6,13 +6,13 @@
   <!-- Animated Hologram Dot Matrix Avatar -->
   <p align="center">
     <a href="https://muzaffarbek.uz">
-      <img src="./assets/avatar-cyber.gif" width="220" alt="Muzaffarbek Mustafayev - Holographic Dot Matrix" style="border-radius: 50%; box-shadow: 0 0 25px rgba(6, 182, 212, 0.4);" />
+      <img src="./assets/avatar-bw.gif" width="230" alt="Muzaffarbek Mustafayev - Monochromatic Dot Matrix Avatar" style="border-radius: 50%; box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);" />
     </a>
   </p>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://muzaffarbek.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Financial+Systems+Architect;Full-Stack+Web+%26+Mobile+Engineer;Real-Time+WebRTC+%26+Media+Streaming;Telegram+Bot+%26+Terminal+Automation;Master+of+Science+(State+Grantee)" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Financial+Systems+Architect;M.S.+Tomsk+State+University;Full-Stack+Web+%26+Mobile+Engineer;Real-Time+WebRTC+%26+Media+Streaming;Telegram+Bot+%26+Terminal+Automation" alt="Typing Animation" />
   </a>
 
   <p align="center">
@@ -33,8 +33,8 @@
   <!-- Quick Status Pill -->
   <p align="center">
     <img src="https://img.shields.io/badge/Status-🟢%20Available%20for%20High--Impact%20Projects-10b981?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-📍%20Tashkent%2C%20Uzbekistan-3b82f6?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Degree-🎓%20M.S.%20(State%20Budget%20Grant)-8b5cf6?style=flat-square" alt="Degree" />
+    <img src="https://img.shields.io/badge/Location-📍%20Samarkand%2C%20Uzbekistan-3b82f6?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Degree-🎓%20M.S.%20(Tomsk%20State%20University)-8b5cf6?style=flat-square" alt="Degree" />
   </p>
 
 </div>
@@ -45,10 +45,10 @@
 
 > *"I transform complex engineering challenges into clean, resilient, and scalable digital architectures."*
 
-I am **Muzaffarbek Mustafayev**, a **Senior Software Engineer** and **AI & Financial Systems Architect** based in Uzbekistan. My engineering practice bridges robust backend systems, high-performance web applications, real-time media communications, and cutting-edge Artificial Intelligence (ASR, LLM integrations, and terminal automation).
+I am **Muzaffarbek Mustafayev**, a **Senior Software Engineer** and **AI & Financial Systems Architect** based in **Samarkand, Uzbekistan**. My engineering practice bridges robust backend systems, high-performance web applications, real-time media communications, and cutting-edge Artificial Intelligence (ASR, LLM integrations, and terminal automation).
 
 ### ⚡ Fast Facts & Highlights
-- 🏛️ **Academic Excellence:** Master of Science (State Budget Grant) & Bachelor of Science at **Samarkand State University**.
+- 🏛️ **Academic Excellence:** Master of Science (M.S.) at **Tomsk State University** & Bachelor of Science (B.S.) at **Samarkand State University** (State Budget Grantee).
 - 💼 **Primary Focus:** High-throughput Node.js/Python microservices, scalable React/Next.js client ecosystems, and AI-driven automation.
 - 🎙️ **Specialized Domain:** Real-time WebRTC media pipelines, Speech Recognition (ASR), and intelligent developer tooling.
 - 🌐 **Languages:** Uzbek (Native), English (Professional Working / CEFR B2), Russian (Fluent / Professional).
